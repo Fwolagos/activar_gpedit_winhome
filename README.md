@@ -2,6 +2,9 @@
 
 Este repositorio proporciona un software para instalar las herramientas de gpedit en Windows Home, ya que esta versión de Windows no las incluye de forma nativa.
 
+Si tienes un sistema operativo Windows Home y necesitas acceder a las herramientas administrativas, como las directivas locales, estás de enhorabuena. Con activar_gpedit_winhome, puedes descargar estas herramientas y configurar tu equipo de manera sencilla. ¡Aprovecha la oportunidad para potenciar las capacidades de tu Windows Home y optimizar la configuración de tu sistema operativo! Descárgalo ahora y experimenta un mayor control sobre tu dispositivo.
+
+
 ## Desarrollador
 Este proyecto fue desarrollado por Fwolagos.
 - [Perfil de GitHub](https://github.com/Fwolagos)
