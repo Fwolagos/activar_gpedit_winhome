@@ -17,6 +17,15 @@ Este proyecto fue desarrollado por Fwolagos.
 3. Documenta tu trabajo.
 4. Realiza tus cambios y envía una solicitud para fusionar la bifurcación con la rama principal.
 
+## Instalación
+
+### Descarga y Ejecución
+
+Descarga el ejecutable desde [aquí]([enlace al ejecutable](https://github.com/Fwolagos/activar_gpedit_winhome/blob/main/activar-gpedit.bat)).
+
+1. Ejecuta el archivo descargado como administrador.
+2. ¡Disfruta de las herramientas de gpedit en tu sistema Windows Home!
+
 ## Licencia
 Este proyecto está bajo la [Licencia Pública General de GNU, versión 3](https://github.com/Fwolagos/activar_gpedit_winhome/blob/main/LICENSE) - consulta el archivo [LICENSE](https://github.com/Fwolagos/activar_gpedit_winhome/blob/main/LICENSE) para obtener más detalles.
 
